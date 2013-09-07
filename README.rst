@@ -8,7 +8,7 @@ Pass json folder by using ``-t`` option.
 .. code-block:: bash
 
    $ npm install jsdoc2
-   $ node_modules/jsdoc2/app/run.js -t ./json j[source folder]
+   $ node_modules/jsdoc2/app/run.js -t ./json [source folder]
 
 .. note::
 
